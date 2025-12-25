@@ -27,3 +27,8 @@ Only three common scientific-Python packages are required:
 
 ```bash
 pip install numpy scipy matplotlib
+
+---
+
+## Reference
+Machine Learning: A Probabilistic Perspective by Kevin P. Murphy, Section 7.6.3
