@@ -27,6 +27,7 @@ Only three common scientific-Python packages are required:
 
 ```bash
 pip install numpy scipy matplotlib
+```
 
 ---
 
